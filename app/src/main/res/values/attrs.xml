@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyAppTheme">
+        <attr name="appBg" format="color" />
+        <attr name="titleColor" format="color" />
+        <attr name="titleBg" format="color" />
+        <attr name="contentColor" format="color" />
+        <attr name="contentBg" format="color" />
+    </declare-styleable>
+</resources>
